@@ -12,6 +12,7 @@ A working notebook for investigating open-driver support for the Broadcom BCM436
 - [Air access setup](docs/ACCESS.md) and [hardware safety policy](docs/SAFETY.md).
 - [Contribution workflow](CONTRIBUTING.md), [provenance policy](PROVENANCE.md), and [agent instructions](AGENTS.md).
 - [Experiment record template](experiments/TEMPLATE.md).
+- [Acceptance revalidation](experiments/2026-10-02-acceptance-revalidation.md): original public gate witness, host-test outcomes, and remaining integration/access blocks.
 
 ## Initial direction
 
